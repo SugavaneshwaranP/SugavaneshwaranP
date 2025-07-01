@@ -65,6 +65,7 @@ Hi, I’m Sugavaneshwaran — a passionate Full Stack Developer who enjoys craft
 
 - 📧 Email: sugavanesh08@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sugavaneshwaranp18/
+- 🌐 Website: https://sugavaneshwaranp.me
 
 ---
 
