@@ -63,7 +63,7 @@ Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with exper
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SugavaneshwaranP&show_icons=true&theme=radical)
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=unicorn)](https://leetcode.com/u/Sugavaneshwaran_p/)
