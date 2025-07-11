@@ -66,9 +66,9 @@ Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with exper
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/Sugavaneshwaran_p/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=unicorn)](https://leetcode.com/u/Sugavaneshwaran_p/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugavaneshwaran-p&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugavaneshwaranP&layout=compact&theme=radical)
 
 </div>
 
