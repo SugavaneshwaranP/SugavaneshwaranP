@@ -47,12 +47,7 @@ Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with exper
 - Implemented JWT authentication and RBAC
 - Developed transaction processing engine
 - Built reporting dashboard with data visualization
-
-### 🛒 E-Commerce Platform
-> React | Node.js | MongoDB | Docker
-- Created responsive UI with product filtering
-- Integrated payment gateway (Stripe API)
-- Implemented CI/CD pipeline with GitHub Actions
+  
 
 ### 🧠 Safety Intelligence System
 > Python | TensorFlow | Flask | D3.js
