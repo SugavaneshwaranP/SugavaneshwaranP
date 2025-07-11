@@ -40,6 +40,10 @@ Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with exper
 
 </div>
 
+
+
+
+
 ## � Featured Projects
 
 ### 🔒 Enterprise Banking System
@@ -60,7 +64,11 @@ Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with exper
 <div align="center">
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/Sugavaneshwaran_p/)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugavaneshwaran-p&layout=compact&theme=radical)
 
 </div>
 
