@@ -65,6 +65,8 @@ Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with exper
   
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats (Includes Private Contributions)
+
 ![Sugavaneshwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugavaneshwaranP&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SugavaneshwaranP&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
