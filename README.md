@@ -1,102 +1,97 @@
-# 💻 Sugavaneshwaran P — Full Stack Developer
+<h1 align="center">🌟 Sugavaneshwaran P — Full Stack Developer | Cloud Native Engineer | AI Explorer</h1>
 
-![Header GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java%2FSpring+Boot+Expert;React+Enthusiast;DevOps+Practitioner;Problem+Solver" alt="Typing SVG" />
-</div>
-
-## 👋 About Me
-
-Hi, I'm **Sugavaneshwaran** — a passionate **Full Stack Developer** with expertise in building robust, scalable web applications. I specialize in creating seamless user experiences backed by powerful server-side architectures.
-
-**What I bring to the table:**
-- � End-to-end development from concept to deployment
-- 🎯 Performance-optimized solutions
-- 🔐 Secure coding practices
-- 🚀 DevOps automation expertise
-- 🤖 Interest in AI/ML integration
-
-## 🛠️ Tech Stack
-
-### 📊 Languages & Frameworks
-<div align="center">
-  
-| Frontend            | Backend             | Databases          |
-|---------------------|---------------------|--------------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra) |
-
-</div>
-
-### ⚙️ DevOps & Tools
-<div align="center">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-
-</div>
-
-
-
-
-
-## � Featured Projects
-
-### 🔒 Enterprise Banking System
-> Java | Spring Boot | MySQL | React
-- Implemented JWT authentication and RBAC
-- Developed transaction processing engine
-- Built reporting dashboard with data visualization
-  
-
-### 🧠 Safety Intelligence System
-> Python | TensorFlow | Flask | D3.js
-- Developed ML models for risk prediction
-- Built real-time analytics dashboard
-- Implemented WebSocket for live updates
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats (Includes Private Contributions)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SugavaneshwaranP&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SugavaneshwaranP&theme=radical&no-bg=true&rank=SS,A,B,C&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=unicorn)](https://leetcode.com/u/Sugavaneshwaran_p/)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugavaneshwaranP&layout=compact&theme=radical)
-
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugavaneshwaranp18/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugavanesh08@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sugavaneshwaranp.me)
-</div>
-
-## 🎯 Currently
-
-- 🔭 Working on a Kubernetes-based microservices project
-- 🌱 Learning GraphQL and Serverless Architecture
-- 🤔 Exploring AI/ML integration in web applications
+<p align="center">
+  <a href="https://sugavaneshwaranp.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:sugavanesh08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sugavaneshwaranp18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Sugavaneshwaran_p/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
 ---
 
+## 🔥 About Me
+
+> "_Build. Break. Improve. Repeat._" — That’s my cycle of innovation.
+
+👋 I'm **Sugavaneshwaran P**, a full stack developer with a DevOps mindset, passionate about building intelligent, scalable, and clean software solutions. I specialize in **Spring Boot**, **React**, **MongoDB/MySQL**, and **cloud-native** systems.
+
+---
+
+## 🧠 Tech Stack
+
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+| Frontend        | Backend         | Database         | DevOps & Cloud             | Intelligence |
+|-----------------|------------------|------------------|-----------------------------|--------------|
+| ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Nodejs](https://skillicons.dev/icons?i=nodejs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Cassandra](https://skillicons.dev/icons?i=cassandra) | ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![AWS](https://skillicons.dev/icons?i=aws) ![Githubactions](https://skillicons.dev/icons?i=githubactions) | ![Python](https://skillicons.dev/icons?i=python) ![Tensorflow](https://skillicons.dev/icons?i=tensorflow) |
 
 </div>
+
+---
+
+## 🚀 Projects
+
+
+
+---
+
+### 🏦 **1. Enterprise Banking System**
+> `Spring Boot ·JSP · MySQL · JWT Auth`  
+- Built secure account management & transaction system  
+- JWT + Role-based authentication  
+- Admin dashboard with detailed financial analytics
+
+---
+
+### 📦 **2. Drug Inventory & Supply Chain Tracker**
+> `Spring Boot · MongoDB · Docker · Tailwind . MongoDB`  
+- Real-time supply chain updates  
+- Modular design with role-specific dashboards  
+- Dockerized deployment ready for K8s scale
+
+
+---
+
+### 🌿 **3. Smart Resource Scheduler (Godrej Sustainability App)**
+> `React · MongoDB · Node · AI Scheduling · Vite`  
+- Real-time drag-and-drop appliance scheduler  
+- AI-powered energy-efficient recommendations  
+- Dark/light mode, voice input, analytics dashboard
+
+
+---
+
+## 📈 My Dev Story in Numbers
+
+<div align="center">
+<!-- GitHub Stats Panel --> <img src="https://github-readme-stats.vercel.app/api?username=SugavaneshwaranP&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugavaneshwaranP&layout=compact&theme=tokyonight&hide_border=true" width="49%" /> <!-- GitHub Trophy (Only Points-Based) --> <img src="https://github-profile-trophy.vercel.app/?username=SugavaneshwaranP&theme=radical&no-bg=true&no-frame=true&margin-w=10&title=SS,S,A,B" /> 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugavaneshwaranP&layout=compact&theme=tokyonight)
+
+[![LeetCode Badge](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=dark&font=Fira+Code)](https://leetcode.com/u/Sugavaneshwaran_p/)
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- 🚢 Helm Charts, K8s Autoscaling & Ingress
+- 🔍 GraphQL + Serverless Frameworks
+- 🧠 Transformer models for time series prediction
+- 📦 Clean architecture for enterprise-ready apps
+
+---
+
+## 💬 Let’s Connect & Collaborate
+
+```yaml
+goals:
+  - Innovate with AI + Web
+  - Build Open Source that matters
+  - Deliver scalable cloud-native systems
+  - Mentor and grow with the dev community
