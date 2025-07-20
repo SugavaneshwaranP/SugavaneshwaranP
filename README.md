@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/📧_sugavanesh08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugavanesh08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugavaneshwaranp18/)
 [![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sugavaneshwaran_p/)
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/your-resume-link/view)
 
 </div>
 
@@ -41,13 +40,11 @@ I architect robust systems that scale, with a passion for clean code and intelli
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -122,7 +119,6 @@ mindmap
       ► Cloud Cost Optimization
     AI/ML
       ► Transformers for Time Series
-      ► TinyML
       ► LLM Fine-tuning
     Web3
       ► Smart Contracts
@@ -130,4 +126,3 @@ mindmap
     DevOps
       ► GitOps
       ► Policy-as-Code
-      ► Chaos Engineering
