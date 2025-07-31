@@ -98,7 +98,7 @@ I architect robust systems that scale, with a passion for clean code and intelli
 
 <div align="center">
   
-[![Sugavaneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SugavaneshwaranP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=24&animation=radical)](https://github.com/SugavaneshwaranP)
+[![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/profile?username=SugavaneshwaranP&theme=dracula)](https://github.com/SugavaneshwaranP)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugavaneshwaranP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
