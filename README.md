@@ -98,7 +98,8 @@ I architect robust systems that scale, with a passion for clean code and intelli
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SugavaneshwaranP&theme=tokyonight)](https://github.com/SugavaneshwaranP)
+[![Sugavaneshwaran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SugavaneshwaranP)](https://github.com/SugavaneshwaranP)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugavaneshwaranP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sugavaneshwaran_p?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/Sugavaneshwaran_p/)
